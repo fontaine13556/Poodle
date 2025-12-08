@@ -13,3 +13,4 @@ Notes and usage details for Poodle.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
